@@ -1,5 +1,5 @@
 # My portfolio
-```js 
+```html
 const departments = [
     {
         id: 1,
